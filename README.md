@@ -1,9 +1,7 @@
 # Taste OS
 
-Private curator brief. Interactive lookbook. Not a product deploy.
+Private curator brief. Interactive lookbook.
 
-Lane: taste / confidence-as-product. Not Interaktive. Not public X.
+Live: https://taste-os-interaktive-xr-solutions-projects.vercel.app
 
-Open `index.html`. Light / dark. Drag the NOW / IF plate.
-
-Unknown: closet SKU count, open rate.
+Open `index.html`. Light / dark in the header. Drag the plate.
